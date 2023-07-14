@@ -102,15 +102,16 @@ section > img{
 }
 section > iframe{
     display: block;
-    margin: auto;
+    margin: center;
     border: 10px #1a5c37;
-    max-width: 1000px;
+    max-width: 500px;
     min-width: 250px;
     padding: 10px 0px;
 }
 section#video{
     background-color: #bac8d87c;
-    width: 100%;
+    max-width: 1000px;
+    min-width: 250px;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
 }
