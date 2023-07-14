@@ -90,19 +90,18 @@ main > p > a:hover{
 picture > img{
     display: block;
     margin: auto;
-    max-width: 1000px;
+    max-width: 700px;
     min-width: 250px;
 }
 section > img{
     display: block;
     margin: auto;
-    max-width: 1000px;
+    max-width: 700px;
     min-width: 250px;
 
 }
 section > iframe{
     display: block;
-    margin: center;
     border: 10px #1a5c37;
     max-width: 500px;
     min-width: 250px;
