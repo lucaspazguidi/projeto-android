@@ -102,10 +102,8 @@ section > img{
 }
 section > iframe{
     display: block;
-    border: 10px #1a5c37;
-    max-width: 500px;
+    max-width: 400px;
     min-width: 250px;
-    padding: 10px 0px;
 }
 section#video{
     background-color: #bac8d87c;
