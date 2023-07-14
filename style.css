@@ -63,7 +63,7 @@ main{
     padding: 20px;
     text-indent: 5px;
     max-width: 1000px;
-    min-width: 350px;
+    min-width: 250px;
     font-size: 17px;
 }
 main > h1{
@@ -90,16 +90,22 @@ main > p > a:hover{
 picture > img{
     display: block;
     margin: auto;
+    max-width: 1000px;
+    min-width: 250px;
 }
 section > img{
     display: block;
     margin: auto;
+    max-width: 1000px;
+    min-width: 250px;
+
 }
 section > iframe{
     display: block;
     margin: auto;
     border: 10px #1a5c37;
-    width: 100%;
+    max-width: 1000px;
+    min-width: 250px;
     padding: 10px 0px;
 }
 section#video{
